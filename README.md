@@ -1,4 +1,4 @@
-# Terrorist_Attack_Visualisation_Project
+# Terrorist_Attack_Visualisation_Project_V1
 This project creates an shiny app to visualise the terrorists attacks using R language. GTD (Global Terrorism Database) is used. This is one of the academic projects in my master degree.
 
 ## 1. System Requiremnt 
