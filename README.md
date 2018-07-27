@@ -4,7 +4,7 @@ This project creates an shiny app to visualise the terrorists attacks using R la
 ![Preview](https://github.com/cheokkin1994/Terrorist_Attack_Visualisation_Project/blob/master/img/Preview.png)
 ![Preview2](https://github.com/cheokkin1994/Terrorist_Attack_Visualisation_Project/blob/master/img/Preview2.png)
 ## 1. System Requiremnt 
-The R codes in this project is developed using MAC OS. The coding involves correction of encoding problems, and therefore only able to run on MAC OS systems. For Windows users, use the link or amend the source code in the section *Remove the multiple bytes values* 
+The R codes in this project is developed using MAC OS. The coding involves correction of encoding problems, and therefore only able to run on MAC OS systems. For Windows users, use the link or amend the source code in the section *Remove the multiple bytes values*.
 
 ## 2. User Guide
 1. Click the symbols on the map, basic information of the attack will be shown. 
