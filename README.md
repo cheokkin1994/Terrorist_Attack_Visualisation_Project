@@ -13,5 +13,7 @@ For more explanation, refer to the user guide in the report.
 The application is deployed using shinyapps.io by RStudio. Click [Here](https://cfon0004.shinyapps.io/visualization_project/) to check out the app. 
 
 ## 4. Database and Copy Right:
+Before running the code, please download the [datafile](https://www.kaggle.com/START-UMD/gtd#globalterrorismdb_0617dist.csv) (Source from Kaggle) to the same directory as the app.R.
+
 This system uses Global Terrorism Database (GTD), which is an open-source database including information on terrorist events around the world from 1970 through 2016. GTD reserves all usage rights of this dataset. Refer to Term of Use . 
 
